@@ -1,7 +1,7 @@
 <?php if(!defined('BASEPATH')) exit('No direct script access allowed');
 
 session_start();
-
+//ferdi rahman
 class Main extends CI_Controller {
 
 	function __construct()
